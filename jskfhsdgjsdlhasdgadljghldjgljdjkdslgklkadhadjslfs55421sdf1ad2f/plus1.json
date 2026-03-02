@@ -290,7 +290,7 @@
     "id": 24,
     "category": "İlkyardım",
     "question": "Olay yerindeki ilk yardımcı, trafik kazası sonucu yaralanmış dört kazazedeye resimdeki tespit işlemlerini uygulamıştır. Bu tespit işlemlerine göre, ilk yardımcı hangi numaralı kazazedenin köprücük kemiğinde kırık olduğunu düşünmüştür?",
-    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/tum-kırıklar.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/tum-kiriklar.png",
     "options": [
       { "text": "I", "isTrue": false },
       { "text": "II", "isTrue": false },
@@ -873,3 +873,4 @@
   }
   
 ]
+
