@@ -16,7 +16,7 @@
     "id": 2,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Görseldeki kırmızı araç sürücüsünün hangi hatayı yaptığı kesinlikle söylenir?",
-    "image_url": "kirmizi-isikta-gecti512145.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/kirmizi-isikta-gecti512145.png",
     "options": [
       { "text": "Karşıya geçiş yapan yayalara yol vermedi", "isTrue": false },
       { "text": "Kırmızı ışıkta geçtiği", "isTrue": true },
@@ -55,7 +55,7 @@
     "id": 5,
     "category": "İlk Yardım",
     "question": "Resimdeki kazazedeye yapılan ilk yardım uygulamasında “yara üzerine konan bezin bir ucunun açık bırakılmasının amacı” hangisidir?",
-    "image_url": "yara-acik-birakma.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/yara-acik-birakma.png",
     "options": [
       { "text": "Nefes alma sırasında yaraya hava girmesini engellemek, nefes verme sırasında havanın dışarı çıkmasını sağlamak", "isTrue": false },
       { "text": "Akciğerlerin açık yaradan dışarı çıkmasını önlemek", "isTrue": false },
@@ -68,7 +68,7 @@
     "id": 6,
     "category": "Araç Tekniği",
     "question": "Aracın gösterge panelinde şekildeki uyarı lambasının yanıyor olması neyi bildirir?",
-    "image_url": "arka-cam-rezidans.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/arka-cam-rezidans.png",
     "options": [
       { "text": "Elektrik devresinde aşırı şarj veya düşük şarj olduğunu", "isTrue": false },
       { "text": "Arka cam rezistansının çalışmakta olduğunu", "isTrue": true },
@@ -83,12 +83,12 @@
     "question": "Hangisi aracın kütlesi ile ilgilidir",
     "image_url": null,
     "options": [
-      { "text": "yuklu-agirligi-7ton.png", "isTrue": true },
-      { "text": "gabari-genislik.png", "isTrue": false },
-      { "text": "gabari-uzunluk.png", "isTrue": false },
-      { "text": "gabari-yukseklik.png", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/yuklu-agirligi-7ton.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/gabari-genislik.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/gabari-uzunluk.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/gabari-yukseklik.png", "isTrue": false }
     ],
-    "description": "7t Tondan bahseder araba kütlesi"
+    "description": "Yüklü ağırlığı 7 tonu geçen araçlar giremez levhası, aracın kütlesini ifade eder."
   },
   {
     "id": 8,
@@ -107,7 +107,7 @@
     "id": 9,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Sürücü, ileride hangi tehlikeyle karşı olabileceğini düşünmelidir",
-    "image_url": "https://random-url.com/image.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/yola-tasalar-firlamam-levha-sfskfsf4512.png",
     "options": [
       { "text": "İş araçları yollarda görünebilir", "isTrue": false },
       { "text": "Yola yabani hayvan çıkabileceğini", "isTrue": false },
@@ -158,8 +158,8 @@
   {
     "id": 13,
     "category": "Trafik ve Çevre Bilgisi",
-    "question": "Videoya göre, kırmızı otomobil sürücüsünün hangisini yapması doğru",
-    "image_url": "https://random-url.com/image.png",
+    "question": "Görsele göre, kırmızı otomobil sürücüsünün hangisini yapması doğru",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/mavi-arac-surucusu-neyapmaliasfasf-saf84561.png",
     "options": [
       { "text": "Sola yanaşıp beklemesi", "isTrue": false },
       { "text": "Ayrı şeritte yoluna devam etmesi", "isTrue": false },
@@ -172,7 +172,7 @@
     "id": 14,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Sürücü hangi tehlikenin kesinlikle olabileceğini düşünmelidir?",
-    "image_url": "https://random-url.com/image.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/yola-cocuk-firalama-tehlikesi-sdfd8541.png",
     "options": [
       { "text": "Çocuğun araçların önüne çıkabileceğini", "isTrue": true },
       { "text": "Sağ taraftaki aracın yola çıkabileceğini", "isTrue": false },
@@ -224,7 +224,7 @@
     "id": 18,
     "category": "İlk Yardım",
     "question": "İlk yardımcının kazazedenin kırık ve çıkık durumlarına göre uyguladığı tespit işlemleri tabloda verilmiştir.Buna göre, ilk yardımcının kazazedelere uyguladığı numaralanmış tespit işlemlerinden hangileri yanlıştır?",
-    "image_url": "kiriklar-tablosu.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/kiriklar-tablosu.png",
     "options": [
       { "text": "Yalnız I", "isTrue": false },
       { "text": "Yalnız II", "isTrue": false },
@@ -260,19 +260,6 @@
     "description": "Belediyeler sorumlu oldukları yollarda tüm işaretleme ve levhalandırma işlemlerinden sorumludur."
   },
   {
-    "id": 21,
-    "category": "Trafik ve Çevre Bilgisi",
-    "question": "I. Trafik işaretlerine uymama\nII. Kavşaklarda geçiş önceliğine uymama\nIII. Sağa dönerken geniş açıyla dönme\nIV. Araç ışıklarını gerekli yerlerde kullanmama\n\nKırmızı renkli otomobil sürücüsü, numaralanmış trafik kuralı ihlallerinden hangilerini yapmıştır?",
-    "image_url": "https://random-url.com/image.png",
-    "options": [
-      { "text": "I ve II", "isTrue": false },
-      { "text": "II ve IV", "isTrue": false },
-      { "text": "I, II ve IV", "isTrue": true },
-      { "text": "I, II, III ve IV", "isTrue": false }
-    ],
-    "description": "Video/görsel içerikli soru."
-  },
-  {
     "id": 22,
     "category": "Trafik Adabı",
     "question": "Hangisi trafikteki iletişimle ilgili değildir?",
@@ -283,7 +270,7 @@
       { "text": "Evde arkadaşlarımıza trafikte yaşadıklarımızı anlatmak", "isTrue": true },
       { "text": "Araç sürerken yayalara yolu sormak", "isTrue": false }
     ],
-    "description": null
+    "description": "Evde arkadaşlarımıza trafikte yaşadıklarımızı anlatmak, anlık trafik ortamındaki iletişim türlerinden biri değildir."
   },
   {
     "id": 23,
@@ -296,7 +283,7 @@
       { "text": "Asgari hız", "isTrue": true },
       { "text": "Uygun hız", "isTrue": false }
     ],
-    "description": null
+    "description": "Kara yollarında araçların seyretmelerine izin verilen en düşük hız sınırına asgari hız denir."
   },
   {
     "id": 24,
@@ -309,7 +296,7 @@
       { "text": "Aralıklı yanıp sönen sarı ışık", "isTrue": false },
       { "text": "Aralıklı yanıp sönen kırmızı ışık", "isTrue": false }
     ],
-    "description": null
+    "description": "Yaya figürlü kırmızı ışık, yayaların yola girmesinin yasak olduğunu ve beklemeleri gerektiğini bildirir."
   },
   {
     "id": 25,
@@ -322,13 +309,13 @@
       { "text": "50", "isTrue": false },
       { "text": "60", "isTrue": false }
     ],
-    "description": null
+    "description": "Araç üzerinde yapılan renk değişimi gibi teknik değişikliklerin 30 gün içinde yetkili kuruluşa bildirilip tescil belgesine işlenmesi zorunludur."
   },
   {
     "id": 26,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "I. Kırmızı ışıkta geçmek\nII. Girişi olmayan yola girmek\nIII. İlk geçiş hakkı kuralına uymamak\n\nVideodaki otomobil sürücüsü, numaralanmış kural ihlallerinden hangilerini yapmıştır?",
-    "image_url": "https://random-url.com/image.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/gecisi-olmayan-yol-hatalar-sdfsd45fs.mp4",
     "options": [
       { "text": "I ve II", "isTrue": false },
       { "text": "I ve III", "isTrue": false },
@@ -341,7 +328,7 @@
     "id": 27,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Görsele göre 2 numaralı araç sürücüsü hangisini yapmalıdır?",
-    "image_url": "kavsak-icindekine-yolver512.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/kavsak-icindekine-yolver512.png",
     "options": [
       { "text": "Hızını artırmalı", "isTrue": false },
       { "text": "Korna çalıp 1 numaralı aracı durdurmalı", "isTrue": false },
@@ -361,7 +348,7 @@
       { "text": "Akü şarjı bitmiştir", "isTrue": true },
       { "text": "Akü elektroliti azalmıştır", "isTrue": false }
     ],
-    "description": null
+    "description": "Akü üzerindeki durum göstergesinin siyah renkli olması, akü şarjının bittiğini ve şarj edilmesi gerektiğini gösterir."
   },
   {
     "id": 29,
@@ -374,13 +361,13 @@
       { "text": "Karın bölgesinde olan kanamalarda", "isTrue": false },
       { "text": "Bacak bölgesinde olan kanamalarda", "isTrue": false }
     ],
-    "description": null
+    "description": "Yüz bölgesindeki şiddetli kanamalarda en yakın bası noktası olan boyundaki şah damarına baskı uygulanarak kanama kontrol altına alınır."
   },
   {
     "id": 30,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Bazı araçlara ilişkin görseller verilmiştir. Hangileri özel amaçla insan veya eşya taşımak için imal edilmiş olan motorlu araçlardandır?",
-    "image_url": "ambulans-cenaze-itfaiye.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/ambulans-cenaze-itfaiye.png",
     "options": [
       { "text": "Yalnız I", "isTrue": false },
       { "text": "Yalnız II", "isTrue": false },
@@ -396,22 +383,22 @@
     "image_url": null,
     "options": [
       { "text": "Küçük çocukların araçlarda çocuk koltuğunda oturtulması.", "isTrue": false },
-      { "text": "Çocuğun yolculuk esnasında annesinin kucağında oturmak", "isTrue": true },
+      { "text": "Çocuğun yolculuk esnasında annesinin kucağında oturması", "isTrue": true },
       { "text": "Boyu 1,5 metreden uzun ve 36 kilodan fazla olanları araçta emniyet kemeri takması", "isTrue": false },
       { "text": "Okul servislerinde her öğrencinin emniyet kemeri takması", "isTrue": false }
     ],
-    "description": null
+    "description": "Çocukların araç içerisinde kucakta taşınması güvenlik açısından çok tehlikeli ve yanlıştır; çarpışma anında çocuk savrulabilir."
   },
   {
     "id": 32,
     "category": "İlk Yardım",
-    "question": "Kanama resimlerinden hangisi atar damar kanamasına aittir?",
+    "question": "Kanama resimlerinden hangisi atardamar kanamasına aittir?",
     "image_url": null,
     "options": [
-      { "text": "toplardamar.png", "isTrue": false },
-      { "text": "kilcal.png", "isTrue": false },
-      { "text": "sizinti.png", "isTrue": false },
-      { "text": "atardamar.png", "isTrue": true }
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/toplardamar.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/kilcal.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/sizinti.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/atardamar.png", "isTrue": true }
     ],
     "description": "Fışkırarak akan kanama atardamar kanamasını gösterir."
   },
@@ -426,7 +413,7 @@
       { "text": "Organ", "isTrue": false },
       { "text": "Sistem", "isTrue": false }
     ],
-    "description": null
+    "description": "Aynı yapı ve görevdeki hücrelerin birleşmesiyle dokular oluşur. Hücreler dokuları, dokular organları, organlar sistemleri meydana getirir."
   },
   {
     "id": 34,
@@ -439,7 +426,7 @@
       { "text": "Epilepsi", "isTrue": false },
       { "text": "Bayılma", "isTrue": false }
     ],
-    "description": null
+    "description": "Dolaşım yetmezliği sebebiyle yaşamsal organlara yeterli kan gitmemesi ve tansiyon düşüklüğüyle ortaya çıkan duruma şok denir."
   },
   {
     "id": 35,
@@ -458,7 +445,7 @@
     "id": 36,
     "category": "Trafik Adabı",
     "question": "I. Hareket hâlindeki taşıttan, sürücüden habersiz inip binmek.\nII. Uygun ve sabitlenmiş şekilde oturmak\nIII. Yüklerin üzerinde yolculuk yapmak\nGörseldeki gibi taşıma yapılırken, numaralanmış ifadelerden hangilerini yapmak kazalara neden olur?",
-    "image_url": "pikapta-yolcu-tasima.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/pikapta-yolcu-tasima.png",
     "options": [
       { "text": "I ve II", "isTrue": false },
       { "text": "I ve III", "isTrue": true },
@@ -471,7 +458,7 @@
     "id": 37,
     "category": "Araç Tekniği",
     "question": "Şekilde soru işareti (?) ile gösterilen güç aktarma organının adı nedir?",
-    "image_url": "diferansiyel-512684.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/diferansiyel-512684.png",
     "options": [
       { "text": "Volan", "isTrue": false },
       { "text": "Aks", "isTrue": false },
@@ -504,7 +491,7 @@
       { "text": "Omurilik", "isTrue": true },
       { "text": "Omurilik soğanı", "isTrue": false }
     ],
-    "description": null
+    "description": "Omurilik, omurga kanalı içinde yer alır, reflekslerin merkezidir ve beyin ile vücut arasındaki iletişimi sağlar."
   },
   {
     "id": 40,
@@ -517,7 +504,7 @@
       { "text": "2-3-1-4", "isTrue": true },
       { "text": "3-4-1-2", "isTrue": false }
     ],
-    "description": null
+    "description": "Geçme işleminde sırasıyla: Sola sinyal verilir (2), takip mesafesi korunarak sol şeride geçilir (3), geçilen araç geride bırakılacak kadar ilerlenir (1) ve sağa sinyal verilerek sağ şeride dönülür (4)."
   },
   {
     "id": 41,
@@ -530,7 +517,7 @@
       { "text": "Hava filtresi", "isTrue": false },
       { "text": "Emme manifoldu", "isTrue": false }
     ],
-    "description": null
+    "description": "Vantilatör, radyatördeki suyun soğumasına yardımcı olan soğutma sistemi parçasıdır."
   },
   {
     "id": 42,
@@ -549,7 +536,7 @@
     "id": 43,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Sola dönüş yapmak isteyen şekildeki araç sürücüsünün aşağıdakilerden hangisini yapması doğrudur?",
-    "image_url": "yayaya-izinver512.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/yayaya-izinver512.png",
     "options": [
       { "text": "Korna çalıp yayayı uyarması", "isTrue": false },
       { "text": "Geçiş hakkını yayaya vermesi", "isTrue": true },
@@ -569,7 +556,7 @@
       { "text": "Aracın trafikten süresiz men edilmesi", "isTrue": false },
       { "text": "Sürücü belgesinin süresiz geri alınması", "isTrue": false }
     ],
-    "description": null
+    "description": "Araçlarında hız ölçen cihazların yerini tespit eden (radar tespit cihazı) bulunduran sürücülere sadece para cezası uygulanır."
   },
   {
     "id": 45,
@@ -582,7 +569,7 @@
       { "text": "Başlık", "isTrue": false },
       { "text": "Sigorta tablası", "isTrue": false }
     ],
-    "description": null
+    "description": "Aracın anlık durumunu (hız, yakıt, uyarı lambaları vb.) sürücüye bildiren ışıklı veya ibreli ekrana gösterge paneli denir."
   },
   {
     "id": 46,
@@ -593,9 +580,9 @@
       { "text": "Toplardamar kanamalarında kan koyu renklidir.", "isTrue": true },
       { "text": "Kılcal damar kanamalarında kan kesik kesik akar.", "isTrue": false },
       { "text": "Atardamar kanamalarında fışkırma yoktur ve süreklidir.", "isTrue": false },
-      { "text": "Toplardamar kanamaları kalp atımları ile uyumlu ve taşkını tarzda.", "isTrue": false }
+      { "text": "Toplardamar kanamaları kalp atımları ile uyumlu ve fışkırır tarzda akar.", "isTrue": false }
     ],
-    "description": null
+    "description": "Toplardamar kanamaları, oksijenden fakir kan taşıdığı için daha koyu renklidir ve sürekli (sızıntı) şeklinde akar."
   },
   {
     "id": 47,
@@ -608,7 +595,7 @@
       { "text": "Gürültü kirliliğinin en aza inmesi", "isTrue": false },
       { "text": "Egzozdan siyah renkte duman çıkması", "isTrue": false }
     ],
-    "description": null
+    "description": "Egzoz susturucusu motorun yanma sonucu oluşan sesini azaltır. Çıkarılması durumunda çevreye yayılan gürültü kirliliği ciddi oranda artar."
   },
   {
     "id": 48,
@@ -616,10 +603,10 @@
     "question": "Kazazedelerden hangisinde “sıyrık yara” meydana gelmiştir?",
     "image_url": null,
     "options": [
-      { "text": "karin-yaralanmasi-a.png", "isTrue": false },
-      { "text": "ayirici-yara.png", "isTrue": false },
-      { "text": "kunt-yara.png", "isTrue": false },
-      { "text": "siyrik-yara.png", "isTrue": true }
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/karin-yaralanmasi-a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/ayirici-yara.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/kunt-yara.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/siyrik-yara.png", "isTrue": true }
     ],
     "description": "Görsel D'deki hafif yüzeysel yara sıyrıktır."
   },
@@ -634,7 +621,7 @@
       { "text": "1 ay hapis cezası verilir", "isTrue": false },
       { "text": "Araç 1 ay süreyle trafikten men edilir", "isTrue": false }
     ],
-    "description": null
+    "description": "Sürücü belgesi olmayan kişilere araç kullandıran araç sahiplerine tescil plakası üzerinden idari para cezası uygulanır."
   },
   {
     "id": 50,
@@ -660,7 +647,7 @@
       { "text": "II ve III", "isTrue": false },
       { "text": "I, II ve III", "isTrue": true }
     ],
-    "description": null
+    "description": "Psikoteknik değerlendirmede sürücülerin tepki hızı, koordinasyon, hız ve mesafe algısı gibi zihinsel ve psikomotor becerileri ölçülür."
   },
   {
     "id": 52,
@@ -748,7 +735,7 @@
     "options": [
       { "text": "A) Durak", "isTrue": false },
       { "text": "B) Ada", "isTrue": true },
-      { "text": "C) Ayrıcı", "isTrue": false },
+      { "text": "C) Ayırıcı", "isTrue": false },
       { "text": "D) Banket", "isTrue": false }
     ],
     "description": "Tanımı yapılan alan, trafik akışını düzenlemek ve yayaların güvenliğini sağlamak amacıyla oluşturulan 'Yaya Adası'dır."
@@ -770,7 +757,7 @@
     "id": 60,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Görseldeki aracın sürücüsü, kamu hizmeti yapan yolcu taşıtı durağının en az kaç metre uzağına aracını park edebilir?",
-    "image_url": "duraga-kacmet6874.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/duraga-kacmet6874.png",
     "options": [
       { "text": "A) 5", "isTrue": false },
       { "text": "B) 10", "isTrue": false },

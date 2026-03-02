@@ -15,8 +15,8 @@
   {
     "id": 2,
     "category": "Trafik ve Çevre Bilgisi",
-    "question": "Videodaki tehlikeli durum, sürücülerin hangi kuralı ihlal etmeleri sonucunda oluşmuştur?",
-    "image_url": "https://random-url.com/video_thumbnail.png",
+    "question": "Görseldeki tehlikeli durum, sürücülerin hangi kuralı ihlal etmeleri sonucunda oluşmuştur?",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/serit-takip-hatasi-asfasf64s5af12as.mp4",
     "options": [
       { "text": "A) Geçme kuralı", "isTrue": false },
       { "text": "B) Şerit takip kuralı", "isTrue": false },
@@ -42,7 +42,7 @@
     "id": 4,
     "category": "İlkyardım",
     "question": "Bilinci kapalı ve görseldeki gibi belirtileri olan yaralı ile karşılaşan ilk yardımcının hangisini yapması yanlıştır?",
-    "image_url": "https://random-url.com/fainting_symptoms.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/yatis-pozisyonu84512.png",
     "options": [
       { "text": "A) Boyun tespiti", "isTrue": false },
       { "text": "B) Koma pozisyonu vermesi", "isTrue": true },
@@ -80,8 +80,8 @@
   {
     "id": 7,
     "category": "Trafik Adabı",
-    "question": "Videoya göre, mavi araç sürücüsü hangisini yaparsa doğru davranmış olur?",
-    "image_url": "https://random-url.com/tram_video.png",
+    "question": "Görsele göre, mavi araç sürücüsü hangisini yaparsa doğru davranmış olur?",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/yolcular-tramvaya-gidecek-dikkatsdf41.png",
     "options": [
       { "text": "A) Trafik ışığı yeşil olduğu için yoluna devam ederse", "isTrue": false },
       { "text": "B) Tramvaya yetişmek isteyenlerin yola çıkabileceğini düşünerek hızını iyice azaltırsa", "isTrue": true },
@@ -109,18 +109,18 @@
     "question": "Kazazedeleri taşıma tekniklerinden hangisi, yürüyemeyen ya da bilinci kapalı olan kişiler için kullanılır?",
     "image_url": null,
     "options": [
-      { "text": "https://random-url.com/option_visual_a.png", "isTrue": true },
-      { "text": "https://random-url.com/option_visual_b.png", "isTrue": false },
-      { "text": "https://random-url.com/option_visual_c.png", "isTrue": false },
-      { "text": "https://random-url.com/option_visual_d.png", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/itfaiyeci-tasima-54fdgdfh.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/kucakta-tasima-54sdsf.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/altin-besik-tasima.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/teskereci.png", "isTrue": false }
     ],
-    "description": "Görsellerdeki taşıma tekniklerinden A şıkkındaki yöntem (muhtemelen İtfaiyeci yöntemi veya benzeri sırtta taşıma), yürüyemeyen veya bilinci kapalı hastalar için uygundur."
+    "description": "Görsellerdeki taşıma tekniklerinden A şıkkındaki yöntem ( İtfaiyeci yöntemi veya benzeri sırtta taşıma), yürüyemeyen veya bilinci kapalı hastalar için uygundur."
   },
   {
     "id": 10,
     "category": "Trafik Adabı",
     "question": "Resimdeki araç sürücüsü trafikte hangisine karşı yapılan hakkı ihlal etmiştir?",
-    "image_url": "https://random-url.com/splash_water.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/yayaya-su-sicratma.png",
     "options": [
       { "text": "A) Diğer insanlara", "isTrue": true },
       { "text": "B) Topluma", "isTrue": false },
@@ -133,7 +133,7 @@
     "id": 11,
     "category": "İlkyardım",
     "question": "Solunum yolu tıkanan kazazedede hangi belirtinin devam etmesi durumunda görseldeki ilk yardım uygulamasının yapılması yanlıştır?",
-    "image_url": "https://random-url.com/heimlich_maneuver.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/heimlich-manevrasi-yap.png",
     "options": [
       { "text": "A) Renginin morarması", "isTrue": false },
       { "text": "B) Öksürmesi", "isTrue": true },
@@ -177,7 +177,7 @@
       { "text": "A) Yol tutuşunun zayıflamasına", "isTrue": false },
       { "text": "B) Yakıt tüketiminin artırmasına", "isTrue": true },
       { "text": "C) Lastiklerin daha az aşınmasına", "isTrue": false },
-      { "text": "D) Aracın daha çabuk kemelenmesine", "isTrue": false }
+      { "text": "D) Aracın daha çabuk ivmelenmesi", "isTrue": false }
     ],
     "description": "Orijinal ebatlardan daha geniş tabanlı ve büyük lastik kullanımı sürtünme yüzeyini artıracağı için yakıt tüketiminin artmasına neden olur."
   },
@@ -211,7 +211,7 @@
     "id": 17,
     "category": "Araç Tekniği",
     "question": "Görsele göre öndeki araç hakkında hangisi kesinlikle söylenir?",
-    "image_url": "https://random-url.com/exhaust_smoke.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/egzoz-gri-duman-cikiyor-dsf.png",
     "options": [
       { "text": "A) Egzozunun arızalı olduğu", "isTrue": false },
       { "text": "B) Motorunun yağ yaktığı", "isTrue": true },
@@ -249,28 +249,28 @@
   {
     "id": 20,
     "category": "Araç Tekniği",
-    "question": "Verilen görsellerin hangisinde lastik basıncı uygundur?",
-    "image_url": null,
+    "question": "Görselde işaretlenmiş olan 'V' harfi ne anlama gelmektedir?",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/hiz_endeksi.png",
     "options": [
-      { "text": "https://random-url.com/tire_pressure_correct.png", "isTrue": true },
-      { "text": "https://random-url.com/tire_pressure_low.png", "isTrue": false },
-      { "text": "https://random-url.com/tire_pressure_high.png", "isTrue": false },
-      { "text": "https://random-url.com/tire_pressure_uneven.png", "isTrue": false }
+      { "text": "Lastiğin dört mevsim olduğunu", "isTrue": false },
+      { "text": "Lastiğin patlamaya karşı dayanıklı olduğunu", "isTrue": false },
+      { "text": "Lastiğin yapabileceği maksimum hızı", "isTrue": true },
+      { "text": "Lastiğin vakumlu tip olduğunu", "isTrue": false }
     ],
-    "description": "Lastik tabanının tam olarak yere bastığı görsel (A şıkkı), doğru lastik basıncını ifade eder. Diğerleri düşük veya yüksek basınç durumlarıdır."
+    "description": "Lastik kodunun en sonundaki harf olan 'V', hız endeksini belirtir. Bu, lastiğin belirtilen yükte güvenle ulaşabileceği maksimum hızı gösterir. 'V' hız endeksi 240 km/s'tir."
   },
   {
     "id": 21,
     "category": "Araç Tekniği",
-    "question": "Videodan uyarı ışığı sürücüye neyi bildirmektedir?",
-    "image_url": "https://random-url.com/dashboard_warning_video.png",
+    "question": "Görseldeki uyarı ışığı sürücüye neyi bildirmektedir?",
+    "image_url": "motor-ariza-uyari-isigi-sdfsd5412.png",
     "options": [
       { "text": "A) Lastik hava basıncının düşük olduğunu", "isTrue": false },
       { "text": "B) Motor soğutma suyu sıcaklığı aşırı yükseliyor", "isTrue": false },
       { "text": "C) Motorda bir arıza meydana geldiğini", "isTrue": true },
       { "text": "D) Motor yağ basıncının düştüğünü", "isTrue": false }
     ],
-    "description": "Gösterge panelindeki motor simgesi (genellikle sarı renkli), motor yönetim sisteminde veya emisyon sisteminde bir arıza olduğunu bildirir."
+    "description": "Gösterge panelindeki motor simgesi, motor yönetim sisteminde veya emisyon sisteminde bir arıza olduğunu bildirir."
   },
   {
     "id": 22,
@@ -302,7 +302,7 @@
     "id": 24,
     "category": "Araç Tekniği",
     "question": "Görseldeki ikaz ışığı hangi durumda yanmaz?",
-    "image_url": "https://random-url.com/tpms_warning_light.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/lastik-hava-basinci-ikazisigi.png",
     "options": [
       { "text": "A) Lastik basıncı azaldığında", "isTrue": false },
       { "text": "B) Lastik ısındığında", "isTrue": true },
@@ -341,7 +341,7 @@
     "id": 27,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Görsele göre, kırmızı otomobil sürücüsü hakkında hangisi kesinlikle söylenir?",
-    "image_url": "https://random-url.com/red_car_lane_violation.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/araba-gecis-sorusu-545dsf5ds5.png",
     "options": [
       { "text": "A) Hatalı geçiş yaptı", "isTrue": false },
       { "text": "B) Takip mesafesine uymadığı", "isTrue": false },
@@ -356,10 +356,10 @@
     "question": "Yol çizgilerinden hangisi, her iki yöndeki araçların geçme yapabileceğini bildirmektedir?",
     "image_url": null,
     "options": [
-      { "text": "https://random-url.com/solid_line.png", "isTrue": false },
-      { "text": "https://random-url.com/dashed_line_visual_b.png", "isTrue": false },
-      { "text": "https://random-url.com/dashed_line_visual_c.png", "isTrue": true },
-      { "text": "https://random-url.com/solid_solid_line.png", "isTrue": false }
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/ikili-devamli-yol-cizgileri.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/devamli-kesikli-yol-cizgileri.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/kesikli-yol-cizgileri.png", "isTrue": true },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/devamli-yol-cizgileri.png", "isTrue": false }
     ],
     "description": "Kesik kesik (tırtıklı) yol çizgisi, her iki yöndeki araçların da kurallara uymak şartıyla öndeki aracı geçebileceğini (sollama yapabileceğini) bildirir."
   },
@@ -380,7 +380,7 @@
     "id": 30,
     "category": "Trafik Adabı",
     "question": "Görsele göre, araç sürücüsü hangisini yaparsa trafik edebine uygun davranmış olur?",
-    "image_url": "https://random-url.com/crosswalk_video.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/yaya-geciyor-arac-surucusu.png",
     "options": [
       { "text": "A) Sürekli kameraya bakarsa", "isTrue": false },
       { "text": "B) El Kol hareketi yaparsa", "isTrue": false },
@@ -419,7 +419,7 @@
     "id": 33,
     "category": "İlkyardım",
     "question": "İlk yardımcı, değerlendirmelerinden sonra kazazedeye resimdeki ilk yardım uygulamasını yapmıştır. Buna göre hangisi bu ilk yardımcının yaptığı uygulamadan önce kazazedede tespit ettiği belirtilerden biri değildir?",
-    "image_url": "https://random-url.com/heimlich_maneuver_visual.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/solunum-yolu-tam-tikanma-8525215412.png",
     "options": [
       { "text": "A) Acı çekmesi", "isTrue": false },
       { "text": "B) Konuşamaması", "isTrue": false },
@@ -458,7 +458,7 @@
     "id": 36,
     "category": "Araç Tekniği",
     "question": "Aracın gösterge panelinde, şekilde görülen akü şarj ikaz ışığı yandığı hâlde araç sürülmeye devam edilirse aşağıdakilerden hangisinin olması beklenir?",
-    "image_url": "https://random-url.com/battery_warning.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/aku-ariza-uyarisi-dsg545.png",
     "options": [
       { "text": "A) Yağın azalması", "isTrue": false },
       { "text": "B) Akünün boşalması", "isTrue": true },
@@ -497,7 +497,7 @@
     "id": 39,
     "category": "İlkyardım",
     "question": "Şekildeki gibi cisim batması durumunda ilk yardım olarak aşağıdaki uygulamalardan hangisinin yapılması doğrudur?",
-    "image_url": "https://random-url.com/first_aid_impaled_object.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/delici-gogus-yaralanmasi-54dsg5.png",
     "options": [
       { "text": "A) Cismin dışarıda kalan kısmının kesilmesi ve yaranın sarılması", "isTrue": false },
       { "text": "B) Cismin çıkarılmadan sabitlenmesi ve yaralının hastaneye sevk edilmesi", "isTrue": true },
@@ -522,8 +522,8 @@
   {
     "id": 41,
     "category": "Trafik Adabı",
-    "question": "I. Trafik adabına\nII. Empati duygusuna\nIII. Sorumsuzluğa\nVideoya göre, tanker sürücüsünün davranışı numaralanmış ifadelerden hangilerine uygundur?",
-    "image_url": "https://random-url.com/tanker_video.png",
+    "question": "I. Trafik adabına\nII. Empati duygusuna\nIII. Sorumsuzluğa\nGörseldeki durumda tanker sürücüsü ani sollama yaptığı için kaza meydana gelmiştir buna göre, tanker sürücüsünün davranışı numaralanmış ifadelerden hangilerine uygundur?",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/tanker_hatali-ani-sollama-asf5Sa.png",
     "options": [
       { "text": "A) Yalnız I", "isTrue": false },
       { "text": "B) Yalnız II", "isTrue": false },
@@ -585,19 +585,6 @@
     "description": "Belirli bir yayaya karşı yapılan kural ihlali doğrudan o kişinin hakkını (kişi hakkı) ve geçiş hakkını ihlaldir. Kamu hakkı genelde topluma veya kamu malına verilen zararı ifade eder."
   },
   {
-    "id": 46,
-    "category": "Trafik ve Çevre Bilgisi",
-    "question": "Videodaki tehlikeli durumun meydana gelmesinin sebebi nedir?",
-    "image_url": "https://random-url.com/overtaking_video.png",
-    "options": [
-      { "text": "A) Kamyonun geçmeyi engellemesi", "isTrue": false },
-      { "text": "B) Beyaz otomobilin geçme kuralına uymaması", "isTrue": false },
-      { "text": "C) Geçme sonrası erken şerit değiştirilmesi", "isTrue": true },
-      { "text": "D) Otomobillerin hız kurallarına uymamaları", "isTrue": false }
-    ],
-    "description": "Sollama yapan aracın, geçtiği aracı dikiz aynasında tam olarak görmeden sağ şeride (erken) geçmesi tehlikeli bir durumdur."
-  },
-  {
     "id": 47,
     "category": "İlkyardım",
     "question": "Aşağıdakilerden hangisi atardamar kanamasındaki kanın özelliklerindendir?",
@@ -614,7 +601,7 @@
     "id": 48,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Bir sürücü yol üzerinde verilen hangi levha ya da levhaları gördüğünde ana yol üzerinde seyrettiğini anlar?",
-    "image_url": "https://random-url.com/main_road_signs.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/anayolda-bulunan-levhalar.png",
     "options": [
       { "text": "A) Yalnız III", "isTrue": false },
       { "text": "B) I ve II", "isTrue": false },
@@ -640,7 +627,7 @@
     "id": 50,
     "category": "İlkyardım",
     "question": "Olay yerindeki ilk yardımcının, bilinçleri kapalı ve solunumu olmayan dört farklı kazazedeye ilişkin tespitleri tabloda verilmiştir. Buna göre ilk yardımcının, numaralanmış kazazedelerden hangilerine \"ağızdan buruna\" yöntemiyle suni solunum yapması uygun olur?",
-    "image_url": "https://random-url.com/cpr_table_question.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/tablo-65sagf5s21sf.png",
     "options": [
       { "text": "A) Yalnız I", "isTrue": true },
       { "text": "B) Yalnız IV", "isTrue": false },
@@ -666,7 +653,7 @@
     "id": 52,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Görseldeki levhayı fark eden bir sürücü, hangisini yapmalıdır?",
-    "image_url": "https://random-url.com/give_way_to_oncoming.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/karsidan-gelene-yolver-levhasi.png",
     "options": [
       { "text": "A) Kavşağa yaklaşırken süratını artırmalıdır", "isTrue": false },
       { "text": "B) Daralan yol bölümünde karşıdan gelen araca yol vermelidir", "isTrue": true },
@@ -678,28 +665,28 @@
   {
     "id": 53,
     "category": "Trafik ve Çevre Bilgisi",
-    "question": "Videoya göre sürücü nasıl davranmalıdır?",
-    "image_url": "https://random-url.com/hazard_video.png",
+    "question": "Görselde bir araca ait durumlar gösterilmiştir,Buna göre sürücü nasıl davranmalıdır?",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/kapi-aciliyor-dikkat-sfsd8451.png",
     "options": [
       { "text": "A) Korna çalıp yoluna devam etmeli", "isTrue": false },
       { "text": "B) Derhal sol şeride geçmek", "isTrue": false },
       { "text": "C) Dörtlü ikaz ışıkları yakarak durmak", "isTrue": true },
       { "text": "D) Sol şeritte otomobili durdurmak", "isTrue": false }
     ],
-    "description": "Ön tarafta bir tehlike veya kaza durumu sezildiğinde güvenli bir şekilde yavaşlayıp, arkadaki araçları uyarmak için dörtlü ikaz lambaları yakılarak durulmalıdır."
+    "description": "Kapı aniden açıldığı için herhangi bir tehlike olmaması adına durmalı ve dörtlüleri yakmalıdır."
   },
-  {
+ {
     "id": 54,
-    "category": "Trafik ve Çevre Bilgisi",
-    "question": "Taşıt yolu üzerine çizilen aşağıdaki yatay işaretlemelerden hangisi, şeridin sadece ileri yönde seyir için olduğunu bildirir?",
-    "image_url": "https://random-url.com/road_arrows.png",
+    "category": "İlkyardım",
+    "question": "Açık karın yaralanması olan bir kazazedeye ilkyardım uygulanırken aşağıdakilerden hangisinin yapılması yanlıştır?",
+    "image_url": null,
     "options": [
-      { "text": "A) [Düz Ok Görseli]", "isTrue": true },
-      { "text": "B) [Düz ve Sağa Ok Görseli]", "isTrue": false },
-      { "text": "C) [Sağa Dönüş Oku Görseli]", "isTrue": false },
-      { "text": "D) [Düz ve Sola Ok Görseli]", "isTrue": false }
+      { "text": "A) Bilinç kontrolünün yapılması", "isTrue": false },
+      { "text": "B) Dışarı çıkan organların içeri sokulmaya çalışılması", "isTrue": true },
+      { "text": "C) Yaralının sıcak tutulması", "isTrue": false },
+      { "text": "D) Yaralıya ağızdan yiyecek veya içecek verilmemesi", "isTrue": false }
     ],
-    "description": "Yerdeki düz ok işareti (A şıkkı), o şeritteki araçların sadece ileri gidebileceğini, sağa veya sola dönüş yapamayacağını bildirir."
+    "description": "Karın yaralanmalarında dışarı çıkan organlar asla içeri sokulmaya çalışılmaz; üzerine nemli ve temiz bir bez örtülerek sevk sağlanır. Organları içeri itmek enfeksiyon ve yaralanma riskini artırır."
   },
   {
     "id": 55,
@@ -783,14 +770,14 @@
     "id": 61,
     "category": "İlkyardım",
     "question": "Görseldeki numaralanmış bölgelerden hangisi \"şah damarı\" olarak adlandırılır?",
-    "image_url": "https://random-url.com/neck_anatomy_visual.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/nabiz-yeri.png",
     "options": [
-      { "text": "A) I", "isTrue": false },
-      { "text": "B) II", "isTrue": true },
+      { "text": "A) I", "isTrue": true },
+      { "text": "B) II", "isTrue": false },
       { "text": "C) III", "isTrue": false },
       { "text": "D) IV", "isTrue": false }
     ],
-    "description": "Boynun yan tarafında bulunan ve nabız alınan ana damar (şah damarı), görselde II numara ile gösterilen bölgedir."
+    "description": "Boynun yan tarafında bulunan ve nabız alınan ana damar (şah damarı), görselde I numara ile gösterilen bölgedir."
   },
   {
     "id": 62,
@@ -822,7 +809,7 @@
     "id": 64,
     "category": "Trafik ve Çevre Bilgisi",
     "question": "Şekildeki taşıtın bulunduğu kara yoluna ne ad verilir?",
-    "image_url": "https://random-url.com/secondary_road_sign.png",
+    "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/hangi-yol-taliyol-dsgsd.png",
     "options": [
       { "text": "A) Banket", "isTrue": false },
       { "text": "B) Ana yol", "isTrue": false },
@@ -835,12 +822,12 @@
     "id": 65,
     "category": "İlkyardım",
     "question": "Burun kanaması olan kazazedeye ilk yardım olarak hangi pozisyon verilmelidir?",
-    "image_url": "https://random-url.com/nosebleed_position.png",
+    "image_url": null,
     "options": [
-      { "text": "A) https://random-url.com/option_visual_a.png", "isTrue": false },
-      { "text": "B) https://random-url.com/option_visual_b.png", "isTrue": false },
-      { "text": "C) https://random-url.com/option_visual_c.png", "isTrue": false },
-      { "text": "D) https://random-url.com/option_visual_d.png", "isTrue": true }
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/burun-kanama-a.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/burun-kanama-b.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/burun-kanama-c.png", "isTrue": false },
+      { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/burun-kanama-d.png", "isTrue": true }
     ],
     "description": "Burun kanamasında kazazede oturtulur, başı hafifçe öne eğilir ve burun kanatları sıkıştırılır. (D şıkkındaki görsel bu pozisyonu göstermektedir)."
   }
