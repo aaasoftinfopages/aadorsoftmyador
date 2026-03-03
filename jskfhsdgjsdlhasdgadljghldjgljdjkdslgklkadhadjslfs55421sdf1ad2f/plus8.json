@@ -1,4 +1,6 @@
-[
+{
+"version": 2,
+"questions":[
   {
     "id": 1,
     "category": "İlkyardım",
@@ -845,3 +847,4 @@
     "description": "Görseldeki simge (termometre ve dalga), motor soğutma suyu sıcaklığını (hararet) gösteren göstergedir."
   }
 ]
+}
