@@ -1,4 +1,6 @@
-[
+{
+"version": 2,
+"questions":[
   {
     "id": 1,
     "category": "Trafik ve Çevre Bilgisi",
@@ -805,4 +807,5 @@
   ],
   "description": "Hayat kurtarma zincirinin ilk iki halkası (haber verme ve temel yaşam desteği) olay yerindeki ilk yardımcının sorumluluğundadır. Sağlık kuruluşuna haber vermek bu zincirin ilk ve en kritik adımıdır."
 }
-]
+]}
+
