@@ -1,5 +1,6 @@
-[
-
+{
+"version": 2,
+"questions":[
   {
     "id": 2,
     "category": "Trafik ve Çevre Bilgisi",
@@ -820,5 +821,6 @@
     ],
     "description": "Sürüş hazırlığında doğru sıralama: Önce koltuk ayarlanır (pedallara ve direksiyona hakimiyet için), sonra aynalar ayarlanır (koltuk pozisyonuna göre görüş sağlamak için) ve en son emniyet kemeri takılır."
   }
-]
+]}
+
 
