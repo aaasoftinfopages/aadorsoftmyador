@@ -530,7 +530,7 @@
       { "text": "C) Yalnız III", "isTrue": true },
       { "text": "D) I, II ve III", "isTrue": false }
     ],
-    "description": "Videodaki tanker sürücüsünün tehlikeli hareketi, trafik adabı veya empati ile değil, sorumsuzlukla açıklanabilir."
+    "description": "Görsellerdeki tanker sürücüsünün tehlikeli hareketi, trafik adabı veya empati ile değil, sorumsuzlukla açıklanabilir."
   },
   {
     "id": 42,
@@ -832,3 +832,4 @@
     "description": "Burun kanamasında kazazede oturtulur, başı hafifçe öne eğilir ve burun kanatları sıkıştırılır. (D şıkkındaki görsel bu pozisyonu göstermektedir)."
   }
 ]
+
