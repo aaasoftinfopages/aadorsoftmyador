@@ -1,4 +1,6 @@
-[
+{
+"version": 2,
+"questions":[
   {
     "id": 1,
     "category": "Trafik ve Çevre Bilgisi",
@@ -793,4 +795,5 @@
   ],
   "description": "Kanamanın ciddiyeti; kanın ne kadar hızlı ve ne miktarda aktığına, yaralanan bölgeye ve kazazedenin fiziksel durumu ile yaşına göre belirlenir. Bu faktörlerin tamamı hayati önem taşır."
 }
-]
+]}
+
