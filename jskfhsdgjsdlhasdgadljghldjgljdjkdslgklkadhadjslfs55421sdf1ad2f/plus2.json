@@ -265,12 +265,12 @@
     "question": "I. Sağa dönüş\nII. Sola dönüş\nIII. Aynı yönde ilerleme\n\nGörseldeki aracın sürücüsü, numaralandırılmış davranışlardan hangilerini yapabilir?",
     "image_url": "https://ehliyetim.github.io/fotos-img/img-fotos/kirmiziaraba-girisi-olmayan-yol.png",
     "options": [
-      { "text": "A) Yalnız I", "isTrue": true },
+      { "text": "A) Yalnız I", "isTrue": false },
       { "text": "B) I ve II", "isTrue": false },
       { "text": "C) II ve III", "isTrue": false },
-      { "text": "D) I, II ve III", "isTrue": false }
+      { "text": "D) I, II ve III", "isTrue": true }
     ],
-    "description": "Yerdeki ok sadece sağa dönüşü gösteriyor."
+    "description": "Hepsine gidebilir."
   },
   {
     "id": 22,
@@ -707,10 +707,10 @@
     "question": "Numaralanmış ifadelerden hangileri araç kullanırken görüş açısının daralmasına sebep olur?\n\nI. Aşırı hız\nII. Sürüş sırasında cep telefonu kullanılması\nIII. Alkol veya uyuşturucu madde etkisi altında araç kullanılması \nIV. Sürücü koltuğunun eğik durumda olması ",
     "image_url": null,
     "options": [
-      { "text": "A) Yalnız I ve III", "isTrue": false },
-      { "text": "B) Yalnız II ve IV", "isTrue": false },
-      { "text": "C) Yalnız I II ve III", "isTrue": true },
-      { "text": "D) II,III ve IV", "isTrue": false }
+      { "text": "I ve III", "isTrue": false },
+      { "text": "II ve IV", "isTrue": false },
+      { "text": "I II ve III", "isTrue": true },
+      { "text": "II,III ve IV", "isTrue": false }
     ],
     "description": "Hız, alkol ve telefon kullanımı dikkati dağıtarak veya fizyolojik etkilerle görüş açısını daraltır."
   },
@@ -793,3 +793,4 @@
     "description": "1 numaralı araç, devamlı yol çizgisinin olduğu tarafta sollama (geçiş) yaparak kural ihlali yapmaktadır."
   }
 ]
+
