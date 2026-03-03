@@ -1,4 +1,6 @@
-[
+{
+"version": 2,
+"questions":[
   {
     "id": 1,
     "category": "Trafik ve Çevre Bilgisi",
@@ -831,4 +833,5 @@
     ],
     "description": "Bilinci kapalı bir hastaya asla ağızdan bir şey verilmez; boğulma (aspirasyon) riski vardır. Bu yüzden C şıkkı yanlış bir uygulamadır."
 }
-]
+]}
+
