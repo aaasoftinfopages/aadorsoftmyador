@@ -1,4 +1,6 @@
-[
+{
+"version": 2,
+"questions":[
   {
     "id": 1,
     "category": "Araç Tekniği",
@@ -818,4 +820,5 @@
     "description": "Kaldırıma park eden sürücüler, yayaların güvenliğini tehlikeye atar ve kamu malına zarar verirler; bu durum empati düzeylerinin düşük olduğunu gösterir."
   }
 
-]
+]}
+
