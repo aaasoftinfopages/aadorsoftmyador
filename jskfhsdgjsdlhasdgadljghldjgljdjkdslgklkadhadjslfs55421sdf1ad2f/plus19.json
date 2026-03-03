@@ -298,7 +298,7 @@
       { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/el-freni-cekili.png", "isTrue": false },
       { "text": "https://ehliyetim.github.io/fotos-img/img-fotos/hararet.png", "isTrue": false }
     ],
-    "description": "Vantilatör kayışı hem alternatörü (şarj) hem de su pompasını çevirir. Kayış koptuğunda alternatör anında durduğu için panelde ilk yanan lamba "Şarj / Akü" lambasıdır. Hararet lambası, suyun ısınması için bir süre geçtikten sonra yanar."
+    "description": "Vantilatör kayışı hem alternatörü (şarj) hem de su pompasını çevirir. Kayış koptuğunda alternatör anında durduğu için panelde ilk yanan lamba Şarj / Akü lambasıdır. Hararet lambası, suyun ısınması için bir süre geçtikten sonra yanar."
   },
   {
     "id": 25,
@@ -796,3 +796,4 @@
   }
 ]
 }
+
