@@ -1,4 +1,6 @@
-[
+{
+"version": 2,
+"questions":[
   {
     "id": 1,
     "category": "İlkyardım",
@@ -818,4 +820,5 @@
     ],
     "description": "Daralan yollarda öncelik hakkını belirleyen trafik levhalarına uyulmalıdır. 1 numaralı aracın tarafındaki 'Öncelik' levhası nedeniyle, 2 numaralı araç bekleyip yol vermelidir."
   }
-]
+]}
+
